@@ -1,3 +1,7 @@
+# A ideia é receber 3 decisões e de acordo com essas decisões, coisas diferentes acontecerem.
+
+
+
 print(r'''
 *******************************************************************************
           |                   |                  |                     |
